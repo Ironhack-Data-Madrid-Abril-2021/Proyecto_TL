@@ -15,4 +15,4 @@ That is why I have added two columns to my database, one called sessions where I
 + The hypothesis I wanted to study was: Shark attacks are common during winter mornings. 
 + After cleaning the csv file I have analyzed the using matplotlib and seaborn libraries to create the graphs. 
 + I have worked with the following columns to study my hypothesis: Fatal (Y/N), Months, Sessions. 
-+ The hypothesis I wanted to study is null, and what we see is that Shark attacks are commong during summer afternoons. 
++ The hypothesis I wanted to study is null, and what we see is that Shark attacks are common during summer afternoons. 
