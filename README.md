@@ -1,6 +1,6 @@
 # Data Cleaning Project
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com.es%2Fanimales%2Ftiburones&psig=AOvVaw0jRwcYxRICR02s60EEMqIE&ust=1620717093678000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDl0-fHvvACFQAAAAAdAAAAABAD)
+![alt text](https://cdni.rt.com/actualidad/public_images/2020.04/article/5e9751cb59bf5b13d05d29e3.jpg)
 
 
 **Steps followed to clean the database:**
