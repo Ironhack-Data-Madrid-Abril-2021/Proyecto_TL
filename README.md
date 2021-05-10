@@ -1,6 +1,6 @@
 TL Project - Shark Attack
 
-![alt text](https://prod-api.theobjective.com/app/uploads/2016/09/bucear-con-tiburones-blancos-767x970.jpg)
+![alt text](https://i.natgeofe.com/n/b0d8b82c-4367-4e09-a21c-a08124b764cf/great-white-shark_thumb.jpg?w=1200)
 
 
 Introduction
