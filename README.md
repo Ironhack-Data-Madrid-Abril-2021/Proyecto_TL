@@ -14,5 +14,5 @@ That is why I have added two columns to my database, one called sessions where I
 **Hypothesis explanations:**
 + The probability of been a fatal Shark attack, is higher on women
 + Have been reported more shark attacks with people between the ages of 15 and 35.
-+ The most common shark attacks reported were by white sharks
++ The most common shark attacks reported were by white sharks.
 
