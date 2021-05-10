@@ -1,0 +1,1 @@
+SELECT * FROM shark_cleaned.sharkcl;
