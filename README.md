@@ -1,3 +1,8 @@
+# TL projetct _ Shark attacks
+
+### Dataset obteined from kaggle
+
+Da
 Dear reader,
 
 I this exercise you will find an example of how to clean some data and insert it into SQL using Python (interface used is Jupyter Notebook, but it is no mandatory to be as such).
