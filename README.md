@@ -1,4 +1,4 @@
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lavozdegalicia.es%2Fnoticia%2Fsociedad%2F2020%2F08%2F16%2Fincreible-instantanea-salto-tiburon-blanco%2F00031597575314089587560.htm&psig=AOvVaw3jpNmvOtN9-YmMZ21dtp-o&ust=1620650688518000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjRgbfQvPACFQAAAAAdAAAAABAD.jpg)
+![alt text](https://www.ngenespanol.com/wp-content/uploads/2018/08/%C2%BFPor-qu%C3%A9-disminuy%C3%B3-el-riesgo-de-ataques-de-tibur%C3%B3n.jpg)
 
 
 
