@@ -1,6 +1,6 @@
 TL Project - Shark Attack
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fordivers.com%2Ffauna%2Fespecie%2Ftiburon-blanco%2F&psig=AOvVaw2l_pjh8ABgyAWxyZ4XDXyF&ust=1620681742971000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj-7Y_EvfACFQAAAAAdAAAAABAJ)
+![alt text](https://prod-api.theobjective.com/app/uploads/2016/09/bucear-con-tiburones-blancos-767x970.jpg)
 
 
 Introduction
